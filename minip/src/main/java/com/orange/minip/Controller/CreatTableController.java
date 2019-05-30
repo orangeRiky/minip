@@ -96,7 +96,7 @@ public class CreatTableController {
 
     /***
      * 获取到用户所参与的所有表信息
-     * @param tableCreatopenid
+     * @param partOpenid
      * @return
      */
     @RequestMapping(value = "/getAllParttable",method = RequestMethod.GET)
